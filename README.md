@@ -7,7 +7,7 @@
 
 <table style="text-align:center;">
   <tr>
-    <td>UI</td>
+    <td text-align="center"><b>UI</b></td>
   </tr>
   <tr>
      <td>

@@ -15,7 +15,7 @@
     </td>
   </tr>
   <tr>
-    <td>상세설명</td>
+    <td align="center"><b>상세설명</b></td>
   </tr>
   <tr>
     <td>

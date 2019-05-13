@@ -1,7 +1,7 @@
 <h1>Calculator Project</h1>
 <ul>
+  <li>프로젝트 개요 : Java Swing 을 이용한 계산기 프로그램</li>
   <li>개발기간 : 2019-02-14 ~ 2019-03-22 (1개월 9일)</li>
-  <li>인원 : 1명</li>
   <li>개발환경 : JavaSE, JDK1.8, Eclipse</li>
 </ul>
 

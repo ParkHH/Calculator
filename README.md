@@ -10,8 +10,8 @@
     <td align="center"><b>UI</b></td>
   </tr>
   <tr>
-     <td>
-    <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfMjc4/MDAxNTU3MjA4NzgzNzcx.xjmH5qEAspFcDgAypmif4J69xAuGkGn_mNXUJihBwUUg.zcfgayGbA1heNmMKnAx_G4w7HkHyagZEcF-g4A9z2-sg.PNG.phh_92/calc.png?type=w2" width="250px" align="center"/>
+     <td align="center">
+    <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfMjc4/MDAxNTU3MjA4NzgzNzcx.xjmH5qEAspFcDgAypmif4J69xAuGkGn_mNXUJihBwUUg.zcfgayGbA1heNmMKnAx_G4w7HkHyagZEcF-g4A9z2-sg.PNG.phh_92/calc.png?type=w2" width="250px"/>
     </td>
   </tr>
   <tr>

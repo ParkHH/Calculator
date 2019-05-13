@@ -8,12 +8,16 @@
 <table style="text-align:center;">
   <tr>
     <td>UI</td>
-    <td>상세 설명</td>
   </tr>
   <tr>
-    <td>
+     <td>
     <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfMjc4/MDAxNTU3MjA4NzgzNzcx.xjmH5qEAspFcDgAypmif4J69xAuGkGn_mNXUJihBwUUg.zcfgayGbA1heNmMKnAx_G4w7HkHyagZEcF-g4A9z2-sg.PNG.phh_92/calc.png?type=w2" width="250px"/>
     </td>
+  </tr>
+  <tr>
+    <td>상세설명</td>
+  </tr>
+  <tr>
     <td>
       ▶ Calculator Design<br>
       <ul>
@@ -24,7 +28,7 @@
         <li>기능</li>
          1. 키패드 문자에 맞게 KeyEventListener 가 적용되어 있음<br>
          2. esc 누를시에 계산기 초기화 진행<br>
-         3. 연산은 연산기호를 기준으로 양옆 숫자를 저장해 놓았다가 '=' 를 누를시 결과<br>
+         3. 연산은 연산기호를 기준으로 양옆 숫자를 저장해 놓았다가 '=' 를 누를시 결과 출력<br>
         <table>
           <tr>
             <td>
